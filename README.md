@@ -11,13 +11,13 @@ Wir zeigen euch, wo man besser beim fahren aufpassen sollte!
 ---
 
 ### Dateien
-Die Dateien wurden aufgrund der einzelnen Dateidimensionen auf OneDrive verschoben.
-Der Link zum OneDrive: https://1drv.ms/f/s!Ah9xDn0PAJd6hKUMwjHjJ5Ws93zxLw?e=cQfNDs
+Die Dateien wurden aufgrund der einzelnen Dateidimensionen auf OneDrive verschoben. <br />
+Der OneDrive-Ordner ist hier zu finden: https://1drv.ms/f/s!Ah9xDn0PAJd6hKUMwjHjJ5Ws93zxLw?e=cQfNDs
 
 <br />
 
 ### Dokumentation
-Unter diesem Link ist die Dokumentation zu finden: https://github.com/goekhan-klc/RoadMap/wiki
+Die Dokumentation ist hier zu finden: https://github.com/goekhan-klc/RoadMap/wiki
 
 <br />
 
