@@ -27,5 +27,5 @@ Die Dokumentation ist hier zu finden: https://github.com/goekhan-klc/RoadMap/wik
 <br />
 
 ### Präsentation
-Die Präsentation des Projekts ist hier zu finden:
+Die Präsentation des Projekts ist hier zu finden: https://1drv.ms/p/s!AiP6VWpl6As1rwHO-2-6zHXLootr?e=U7IsVA
 
