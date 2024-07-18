@@ -11,7 +11,7 @@ Wir zeigen euch, wo man beim fahren besser aufpassen sollte!
 ---
 
 ### Dashboard
-Das Dashboard ist hier zu finden: 
+Das Dashboard ist hier zu finden: https://app.powerbi.com/links/MI8o2DgM0H?ctid=6c89528e-0824-4e0e-ad98-cab16af8c189&pbi_source=linkShare&bookmarkGuid=506c1b37-a07c-4378-a685-68e3aec67e84
 
 <br />
 
