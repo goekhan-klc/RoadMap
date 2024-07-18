@@ -6,7 +6,7 @@
 
 Willkommen zu RoadMap - einer interaktiven Deutschlandkarte mit einigen Insights zu Unfallstatistiken, die geografische Veteilung von Unfällen, den häufigsten Gründen und die in der Regel beteiligten der Unfälle. Daten des Statistisches Bundesamtes zwischen den Jahren 2023 bis 2020 wurden für das Dashboard aufbereitet. Als Visualisierung nutzen wir eine Power-BI Erweiterung, welche uns erlaubt, einen eigenen MapBox API-Key zu verwenden.
 
-Wir zeigen euch, wo man besser beim fahren aufpassen sollte!
+Wir zeigen euch, wo manvbeim fahren besser aufpassen sollte!
 
 ---
 
